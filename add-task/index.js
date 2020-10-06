@@ -1,3 +1,5 @@
+const tasksService = require('../services/TaskService')
+
 module.exports = async function (context, req) {
     context.log('Adding a task to the planner');
 
@@ -15,6 +17,7 @@ module.exports = async function (context, req) {
                 task
             }
         };
+        tasksService.addTask(task)
         return  context.res
     }else{
         responseMessage.response = "Error, no payload";
