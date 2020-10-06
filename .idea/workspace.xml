@@ -11,10 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d89fbca-0d5f-4b14-815c-9d49df239ca5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/services/TaskService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add-task/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/add-task/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list-tasks/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/list-tasks/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +41,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.13.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.11.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/list-tasks" />
@@ -74,6 +73,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601922654172</updated>
       <workItem from="1601922659282" duration="15529000" />
+      <workItem from="1602024656229" duration="10000" />
+      <workItem from="1602024737418" duration="448000" />
     </task>
     <servers />
   </component>
@@ -90,6 +91,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="187" y="4" key="SettingsEditor" timestamp="1601922690198">

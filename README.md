@@ -6,7 +6,11 @@
 
 ## Part 1 endpoint test
 
+![](img/part1.gif)
+
 ## Part 2 endpoint test
+
+![](img/part2.gif)
 
 ## Part 3 link to front-end repository
 
